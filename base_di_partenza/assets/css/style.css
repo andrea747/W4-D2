@@ -429,9 +429,8 @@ footer a {
   }
 }
 
-.icon {
-  position: absolute;
-  top: 247%;
+.fas.fa-tag {
+  position: relative;
   left: 90%;
   transform: translate(-50%, -50%);
   font-size: 50px;
